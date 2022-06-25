@@ -1,4 +1,4 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>Conversor.md</title><style></style></head><body id="preview">
+<!DOCTYPE html><html><head><meta charset="utf-8"></head><body id="preview">
 <h1 class="code-line" data-line-start=0 data-line-end=1><a id="Conversor_0"></a>Conversor</h1>
 <h3 class="code-line" data-line-start=2 data-line-end=3><a id="Sobre_El_proyecto_2"></a>Sobre El proyecto</h3>
 <p class="has-line-data" data-line-start="4" data-line-end="5">El proyecto se trata de crear un programa el cual contenga diferentes conversores, en este caso conversor de divisas y conversor de temperaturas.</p>
